@@ -11,5 +11,6 @@ using namespace std;
 
 int main() {
 	cout << "-c -fmessage-length=0  -std=c++11" << endl; // prints -c -fmessage-length=0  -std=c++11
+	cout << "Roger" << endl;
 	return 0;
 }
